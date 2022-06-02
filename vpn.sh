@@ -1,5 +1,7 @@
 #!/bin/bash
 
+### Install ExpressVPN before use
+
 ### Input Options
 Up()
 {
